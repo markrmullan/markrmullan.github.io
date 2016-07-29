@@ -49,6 +49,7 @@ canvas {
   color: white;
   font-size: 40px;
   padding: 4px;
+  text-align: center;
 }
 
 #game-over {
